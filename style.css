@@ -69,12 +69,12 @@ body{
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
-.output .title h1{
+.output .head h1{
     color: #c5ecfd;
     text-align: center;
     margin-bottom: 25px;
 }
-.main .title h1, .heading h1{
+.main .head h1, .heading h1{
   color: #c5ecfd;
   text-align: center;
   margin-bottom: 25px;
