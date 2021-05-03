@@ -4,17 +4,19 @@
   padding: 0;
   box-sizing: border-box;
   outline: none;
-  font-family: 'Roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 html{
     overflow-y: scroll;
+    background-image: url(cows.jpeg);
+    background-size: cover;
 }
 p{
   color: rgb(172, 153, 153);
 }
 
 body{
-  background-image: url('https://unsplash.com/photos/RgplfXbxLFs') no-repeat top center static;
+  background-image: url(https://unsplash.com/photos/HHpRh6rNQMo);
   background-size: cover;
   height: 100vh;
 }
@@ -70,17 +72,17 @@ body{
 }
 
 .output .head h1{
-    color: #c5ecfd;
+    color: #244d5f;
     text-align: center;
     margin-bottom: 25px;
 }
 .main .head h1, .heading h1{
-  color: #c5ecfd;
+  color: #274653;
   text-align: center;
   margin-bottom: 25px;
 }
 h1{
-  color: #c5ecfd;
+  color: #869ba3;
 }
 
 .contact-form{
@@ -101,23 +103,23 @@ h1{
   margin: 10px 0;
   background: transparent;
   border: 0px;
-  border-bottom: 2px solid #c5ecfd;
+  border-bottom: 2px solid #838485;
   padding: 10px;
-  color: #c5ecfd;
+  color: #84888a;
   width: 100%;
 }
 
 ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  color: #c5ecfd;
+  color: #6f7679;
 }
 ::-moz-placeholder {
   /* Firefox 19+ */
-  color: #c5ecfd;
+  color: #636668;
 }
 :-ms-input-placeholder {
   /* IE 10+ */
-  color: #c5ecfd;
+  color: #5e686d;
 }
 
 .button {
@@ -125,7 +127,7 @@ h1{
     text-align: center;
     padding: 15px;
     border-radius: 5px;
-    color: #fff;
+    color: rgb(150, 120, 120);
     cursor: pointer;
     text-transform: uppercase;
 }
