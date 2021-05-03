@@ -20,7 +20,7 @@ CSS
 JavaScript
 Git
 ### Live Site
-View live (https://ngare-arnold10.github.io/Dairy-Business/)
+[View live ](https://ngare-arnold10.github.io/Dairy-Business/)
 
 ### Licence
 This project is under the MIT licence
